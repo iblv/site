@@ -50,9 +50,17 @@
           </div>
 
           <div class="inner cover">
-            <h1 class="cover-heading">EM Breve</h1>
-            <p class="lead">Cover is a one-page template for building simple and beautiful home pages. Download, edit the text, and add your own fullscreen background photo to make it your own.</p>
+            <h1 class="cover-heading">Em Breve!</h1>
+            <p class="lead">Aqui em breve mais um meio de espalhar a palavra do senhor Jesus.</p>
           </div>
+	  <div>
+	     <div class="tel"></div>
+	     <div class="network"></div>
+	     <div class="local">
+	       Avenida Otávio Mangabeira, 300 - Pituba, Salvador - BA, 41830-002
+             </div>
+	  </div>
+	  <div class="map"></div>
 
           <div class="mastfoot">
             <div class="inner">
