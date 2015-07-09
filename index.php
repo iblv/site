@@ -9,7 +9,7 @@
     <meta name="author" content="">
     <link rel="icon" href="/images/logo.png">
 
-    <title>Cover Template for Bootstrap</title>
+    <title>Igreja Batista Lírio dos Vales</title>
 
     <!-- Bootstrap core CSS -->
     <link href="/css/bootstrap.min.css" rel="stylesheet">
@@ -38,29 +38,39 @@
 
           <div class="masthead clearfix">
             <div class="inner">
-              <h3 class="masthead-brand">Cover</h3>
-              <nav>
+              <h3 class="masthead-brand"><img class="img-responsive" src="/images/logo.png"></h3>
+              <!--<nav>
                 <ul class="nav masthead-nav">
                   <li class="active"><a href="#">Home</a></li>
                   <li><a href="#">Features</a></li>
                   <li><a href="#">Contact</a></li>
                 </ul>
-              </nav>
+              </nav>-->
             </div>
           </div>
-
-          <div class="inner cover">
-            <h1 class="cover-heading">Em Breve!</h1>
-            <p class="lead">Aqui em breve mais um meio de espalhar a palavra do senhor Jesus.</p>
+          <div class="container">
+            <div class="inner cover">
+              <h1 class="cover-heading">Em Breve!</h1>
+              <p class="lead"><h3>Aqui em breve mais um meio de espalhar a palavra do senhor Jesus.</h3></p>
+            </div>
+        	  <div class="row">
+              <div class="col-md-4 col-xs-12 box tel">
+                <h1><span class="glyphicon glyphicon-earphone" aria-hidden="true"></span></h1> 
+                <p><a href="tel:+55 71 0000-0000">+55 71 0000-0000</a></p>
+              </div>
+              <div class="col-md-4 col-xs-12 box network">
+                <h1><span class="glyphicon glyphicon-send" aria-hidden="true"></span></h1> 
+                <p><a href="#"><img src="/images/twitter.png"></a>&nbsp;&nbsp;&nbsp;<a href="#"><img src="/images/facebook.png"></a></p>
+              </div>
+              <div class="col-md-4 col-xs-12 box local">
+                <h1><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span></h1>
+                Avenida Otávio Mangabeira, 300 - Pituba, Salvador - BA, 41830-002
+              </div>
+        	  </div>
           </div>
-	  <div>
-	     <div class="tel"></div>
-	     <div class="network"></div>
-	     <div class="local">
-	       Avenida Otávio Mangabeira, 300 - Pituba, Salvador - BA, 41830-002
-             </div>
-	  </div>
-	  <div class="map"></div>
+      	  <div class="map">
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1374.401029552758!2d-38.46568923694883!3d-13.010617351453815!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7161ca05f18d4c3%3A0x400924539c7feb3f!2sIgreja+Batista+L%C3%ADrio+dos+Vales+-+Pituba!5e0!3m2!1spt-BR!2sus!4v1436405464003" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe> 
+          </div>
 
           <div class="mastfoot">
             <div class="inner">
