@@ -26,6 +26,10 @@ body {
   margin-top: 20px;
 }
 
+.mastfoot > .social-network {
+  margin-bottom: 5px;
+}
+
 .box {
   min-height: 200px;
   padding: 5px;
