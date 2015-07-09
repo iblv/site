@@ -51,18 +51,15 @@
           <div class="container">
             <div class="inner cover">
               <h1 class="cover-heading">Em Breve!</h1>
-              <p class="lead"><h3>Aqui em breve mais um meio de espalhar a palavra do senhor Jesus.</h3></p>
+              <p class="lead"><h3>Mais um meio de espalhar a palavra do senhor Jesus.</h3></p>
             </div>
         	  <div class="row">
-              <div class="col-md-4 col-xs-12 box tel">
+              <div class="col-md-6 col-xs-12 box tel">
                 <h1><span class="glyphicon glyphicon-earphone" aria-hidden="true"></span></h1> 
-                <p><a href="tel:+55 71 3346-7753">+55 71 3346-7753</a></p>
+                <p>tel: <a href="tel:+55 71 3346-7753">+55 71 3346-7753</a></p>
+                <p>e-mail: <a href="mail:iblvpitubasede@gmail.com">iblvpitubasede@gmail.com</a></p>
               </div>
-              <div class="col-md-4 col-xs-12 box network">
-                <h1><span class="glyphicon glyphicon-send" aria-hidden="true"></span></h1> 
-                <p><a href="#"><img src="/images/twitter.png"></a>&nbsp;&nbsp;&nbsp;<a href="#"><img src="/images/facebook.png"></a></p>
-              </div>
-              <div class="col-md-4 col-xs-12 box local">
+              <div class="col-md-6 col-xs-12 box local">
                 <h1><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span></h1>
                 Avenida Otávio Mangabeira, 300 - Pituba, Salvador - BA, 41830-002
               </div>
@@ -73,6 +70,10 @@
           </div>
 
           <div class="mastfoot">
+            <div class="text-center social-network">
+              <a href="#"><img src="/images/twitter.png" width="32" width="32"></a>&nbsp;&nbsp;&nbsp;
+              <a href="#"><img src="/images/facebook.png"  width="32" width="32"></a>
+            </div>
             <div class="inner">
               <p>&copy; Igreja Batista Lírio dos Vales - 2015</p>
             </div>
