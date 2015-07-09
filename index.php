@@ -71,8 +71,8 @@
 
           <div class="mastfoot">
             <div class="text-center social-network">
-              <a href="#"><img src="/images/twitter.png" width="32" width="32"></a>&nbsp;&nbsp;&nbsp;
-              <a href="#"><img src="/images/facebook.png"  width="32" width="32"></a>
+              <a href="https://twitter.com/iblvpituba"><img src="/images/twitter.png" width="32" width="32"></a>&nbsp;&nbsp;&nbsp;
+              <a href="https://www.facebook.com/liriopituba"><img src="/images/facebook.png"  width="32" width="32"></a>
             </div>
             <div class="inner">
               <p>&copy; Igreja Batista Lírio dos Vales - 2015</p>
