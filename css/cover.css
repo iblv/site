@@ -1,3 +1,4 @@
+@import url(http://fonts.googleapis.com/css?family=Pinyon+Script);
 html,
 body {
   height: 100%;
@@ -15,6 +16,12 @@ body {
 
 .cover{
   margin-bottom: 50px;
+}
+
+.cover > h1 {
+  font-family: 'Pinyon Script', cursive;
+  font-size: 80px;
+  color: #0088CB;
 }
 
 /*

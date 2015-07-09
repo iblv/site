@@ -50,7 +50,8 @@
           </div>
           <div class="container">
             <div class="inner cover">
-              <h1 class="cover-heading">Em Breve!</h1>
+              <h1 class="text-center">Igreja Batista Lírio dos Vales</h1>
+              <h2 class="cover-heading">Em Breve!</h2>
               <p class="lead"><h3>Mais um meio de espalhar a palavra do senhor Jesus.</h3></p>
             </div>
         	  <div class="row">
