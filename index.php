@@ -56,7 +56,7 @@
         	  <div class="row">
               <div class="col-md-4 col-xs-12 box tel">
                 <h1><span class="glyphicon glyphicon-earphone" aria-hidden="true"></span></h1> 
-                <p><a href="tel:+55 71 0000-0000">+55 71 0000-0000</a></p>
+                <p><a href="tel:+55 71 3346-7753">+55 71 3346-7753</a></p>
               </div>
               <div class="col-md-4 col-xs-12 box network">
                 <h1><span class="glyphicon glyphicon-send" aria-hidden="true"></span></h1> 
