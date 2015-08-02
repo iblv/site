@@ -1,0 +1,71 @@
+*
+{
+	margin: 0px;
+	padding: 0px;
+	border:0px;
+}
+
+body
+{
+    background-color:#111118;
+}
+
+@font-face
+{
+    font-family:myfontHero;
+    src: url(../Hero_Light.otf);
+    font-weight:normal;
+    font-style: normal;
+}
+
+div.col-md-12
+{
+	padding:0px;
+}
+
+section#interface
+{
+	background-color:#606060;
+	
+}
+
+
+section#interface img
+{
+	width:100%;
+	height: 100%;
+
+}
+
+
+footer#rodape
+{
+    background-color:#111118;
+    height:100%;
+
+}
+
+footer#rodape h1
+{
+    color: #fff;
+    font-size: 30pt;
+    font-family:myfontHero;
+
+}
+
+footer#rodape ul.lista_rodape
+{
+    list-style: none;
+    color: #fff;
+    font-family:myfontHero;
+    font-size: 13pt;
+}
+
+img.icone
+{
+    width: 50px;
+    height: 50px;
+    display: inline;
+    margin-right:15px;
+    cursor: pointer;
+}
