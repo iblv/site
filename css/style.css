@@ -12,8 +12,8 @@ body
 
 @font-face
 {
-    font-family:myfontHero;
-    src: url(../Hero_Light.otf);
+    font-family:Aileron-UltraLight;
+    src: url(../fonts/Aileron-UltraLight.otf);
     font-weight:normal;
     font-style: normal;
 }
@@ -49,7 +49,7 @@ footer#rodape h1
 {
     color: #fff;
     font-size: 30pt;
-    font-family:myfontHero;
+    font-family:Aileron-UltraLight;
 
 }
 
@@ -57,14 +57,14 @@ footer#rodape ul.lista_rodape
 {
     list-style: none;
     color: #fff;
-    font-family:myfontHero;
+    font-family:Aileron-UltraLight;
     font-size: 13pt;
 }
 
 img.icone
 {
-    width: 50px;
-    height: 50px;
+    width: 35px;
+    height: 35px;
     display: inline;
     margin-right:15px;
     cursor: pointer;
