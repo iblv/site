@@ -13,7 +13,7 @@ body
 @font-face
 {
     font-family:Aileron-UltraLight;
-    src: url(../fonts/Aileron-UltraLight.otf);
+    src: url(/fonts/Aileron-UltraLight.otf);
     font-weight:normal;
     font-style: normal;
 }
@@ -68,4 +68,9 @@ img.icone
     display: inline;
     margin-right:15px;
     cursor: pointer;
+}
+
+.cultos
+{
+    color: #fff;
 }

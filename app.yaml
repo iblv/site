@@ -12,5 +12,7 @@ handlers:
   static_dir: fonts
 - url: /images
   static_dir: images
+- url: /fotos
+  static_dir: fotos
 - url: /
   script: index.php

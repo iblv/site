@@ -1,97 +1,113 @@
-<!DOCTYPE html>
-<html lang="en">
+﻿<!DOCTYPE html>
+<html lang="pt-br">
   <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <meta name="description" content="">
-    <meta name="author" content="">
-    <link rel="icon" href="/images/logo.png">
+      <meta charset="utf-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+      <title>Igreja Batista Lírio dos Vales</title>
 
-    <title>Igreja Batista Lírio dos Vales</title>
-
-    <!-- Bootstrap core CSS -->
-    <link href="/css/bootstrap.min.css" rel="stylesheet">
-
-    <!-- Custom styles for this template -->
-    <link href="/css/cover.css" rel="stylesheet">
-
-    <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
-    <!--[if lt IE 9]><script src="/js/ie8-responsive-file-warning.js"></script><![endif]-->
-    <script src="/js/ie-emulation-modes-warning.js"></script>
-
-    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
-    <!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-    <![endif]-->
+      <!-- Bootstrap -->
+      <link href="css/bootstrap.min.css" rel="stylesheet">
+      <link href="css/style.css" rel="stylesheet">
   </head>
-
   <body>
 
-    <div class="site-wrapper">
-
-      <div class="site-wrapper-inner">
-
-        <div class="cover-container">
-
-          <div class="masthead clearfix">
-            <div class="inner">
-              <h3 class="masthead-brand"><img class="img-responsive" src="/images/logo.png"></h3>
-              <!--<nav>
-                <ul class="nav masthead-nav">
-                  <li class="active"><a href="#">Home</a></li>
-                  <li><a href="#">Features</a></li>
-                  <li><a href="#">Contact</a></li>
-                </ul>
-              </nav>-->
-            </div>
-          </div>
-          <div class="container">
-            <div class="inner cover">
-              <h1 class="text-center">Igreja Batista Lírio dos Vales</h1>
-              <h2 class="cover-heading">Em Breve!</h2>
-              <p class="lead"><h3>Mais um meio de espalhar a palavra do senhor Jesus.</h3></p>
-            </div>
-        	  <div class="row">
-              <div class="col-md-6 col-xs-12 box tel">
-                <h1><span class="glyphicon glyphicon-earphone" aria-hidden="true"></span></h1> 
-                <p>tel: <a href="tel:+55 71 3346-7753">+55 71 3346-7753</a></p>
-                <p>e-mail: <a href="mail:iblvpitubasede@gmail.com">iblvpitubasede@gmail.com</a></p>
+      <section id="interface" class="container-fluid" >
+          <div class="row">
+              <div class="col-md-12">
+                  <img src="fotos/Modelo.png" class="img-responsive">
               </div>
-              <div class="col-md-6 col-xs-12 box local">
-                <h1><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span></h1>
-                Avenida Otávio Mangabeira, 300 - Pituba, Salvador - BA, 41830-002
+          </div>
+      </section>
+      <footer id="rodape" class="container-fluid">
+          <div class="row">
+              <div class="col-md-4 text-center">
+                  <h1>CULTOS</h1>
+                  <div class="cultos text-left">
+                    <div class="culto">                    
+                      DOMINGO<br/>
+                      07:00 - CULTO DA ALVORADA<br/>
+                      09:00 - ESCOLA BÍBLICA<br/>
+                      10:00 - CULTO DA FAMÍLIA<br/>
+                      10:00 - EBD INFANTIL<br/>
+                      17:00 - CULTO DA BENÇÃO<br/>
+                      19:00 - CULTO DE CELEBRAÇÃO<br/>
+                    </div>
+                    <!--<hr/> 
+                    <div class="culto">
+                      SEGUNDA
+                      15:00 - CULTO DA VITÓRIA
+                      19:00 - CAMPANHA DA VITÓRIA
+                    </div>
+                    <hr/>
+                    <div class="culto">
+                      TERÇA
+                      09:00 - CULTO DE ORAÇÃO
+                      14:00 - REUNIÃO DE INTERCESSÃO
+                      19:30 - CULTO DOS EMPRESÁRIOS
+                    </div>
+                    <hr/>
+                    <div class="culto">
+                      QUARTA
+                      15:00 - CULTO DE MULHERES
+                      19:30 - CULTO DE DOUTRINA
+                    </div>
+                    <hr/>
+                    <div class="culto">
+                      QUINTA
+                      09:00 - CULTO DA PROMESSAS
+                      15:00 - CULTO DO AVIVAMENTO
+                      19:30 - CULTO DA FAMÍLIA
+                    </div>
+                    <hr/>
+                    <div class="culto">
+                      SEXTA
+                      09:00 - CULTO DE LIBERTAÇÃO
+                      19:30 - CULTOS DOS MINISTÉRIOS
+                      23:00 - TODAS SEGUNDAS SEXTAS-FEIRAS MÊS VIGÍLIA DE AVIVAMENTO
+                    </div> -->
+                    <hr/>
+                    <div class="culto">
+                      SÁBADO <br/>
+                      15:00 - DESPERTA DÉBORA<br/>
+                      17:00 - CULTO DE ADOLESCENTES<br/>
+                      17:00 - ENSAIO DO CORAL<br/>
+                      19:30 - SABADÃO JOVEM<br/>
+                    </div>
+                  </div>
               </div>
-        	  </div>
+              <!-- <div class="col-md-3 text-center">
+                  <h1>REDES SOCIAIS</h1>
+                  <img src="fotos/facebook29.png" class="img-responsive icone">
+                  <img src="fotos/youtube25.png" class="img-responsive icone">
+                  <img src="fotos/whatsapp.png" class="img-responsive icone">
+              </div> -->
+              <div class="col-md-4 text-center">
+                  <h1>CONTATOS</h1>
+                  <ul class="lista_rodape">
+                      <li>Telefone: +55 71 3346-7753</li>
+                      <li>E-mail: iblvpitubasede@gmail.com</li>
+                  </ul>
+              </div>
+              <div class="col-md-4 text-center">
+                  <h1>ENDEREÇO</h1>
+                  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3887.3952710441827!2d-38.46577939999997!3d-13.010482199999998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7161ca05f18d4c3%3A0x400924539c7feb3f!2sIgreja+Batista+L%C3%ADrio+dos+Vales+-+Pituba!5e0!3m2!1spt-BR!2sbr!4v1436498417333" width="95%" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
+              </div>
           </div>
-      	  <div class="map">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1374.401029552758!2d-38.46568923694883!3d-13.010617351453815!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7161ca05f18d4c3%3A0x400924539c7feb3f!2sIgreja+Batista+L%C3%ADrio+dos+Vales+-+Pituba!5e0!3m2!1spt-BR!2sus!4v1436405464003" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe> 
-          </div>
+      </footer>
+      <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+      <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+      <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
 
-          <div class="mastfoot">
-            <div class="text-center social-network">
-              <a href="https://twitter.com/iblvpituba"><img src="/images/twitter.png" width="32" width="32"></a>&nbsp;&nbsp;&nbsp;
-              <a href="https://www.facebook.com/liriopituba"><img src="/images/facebook.png"  width="32" width="32"></a>
-            </div>
-            <div class="inner">
-              <p>&copy; Igreja Batista Lírio dos Vales - 2015</p>
-            </div>
-          </div>
+      <![endif]-->
 
-        </div>
-
-      </div>
-
-    </div>
-
-    <!-- Bootstrap core JavaScript
-    ================================================== -->
-    <!-- Placed at the end of the document so the pages load faster -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-    <script src="/js/bootstrap.min.js"></script>
-    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
-    <script src="/js/ie10-viewport-bug-workaround.js"></script>
+      <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+      <!-- Include all compiled plugins (below), or include individual files as needed -->
+      <script src="js/bootstrap.min.js"></script>
+      <script src="js/application.js"></script>
   </body>
 </html>
