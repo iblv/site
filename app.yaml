@@ -14,5 +14,7 @@ handlers:
   static_dir: images
 - url: /fotos
   static_dir: fotos
+- url: /lirio-kids
+  script: liriokids.php
 - url: /
   script: index.php
