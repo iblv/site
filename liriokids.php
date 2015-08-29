@@ -74,6 +74,10 @@
               <li><a target="_blank" href="https://drive.google.com/file/d/0B43R4sEjAGRgYTl3TzBuaWc5VU0/view?usp=sharing">23 de agosto de 2015 - Juízes</a></li>
             </ol>
           </div>
+          <div class="sidebar-module">
+            <h2>Culto Mensal</h2>
+            <img class="img-responsive img-thumbnail" src="images/ministerios/liriokids/culto-mensal.jpg">
+          </div>
         </div><!-- /.blog-sidebar -->
 
       </div><!-- /.row -->
