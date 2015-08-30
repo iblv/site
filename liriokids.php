@@ -53,14 +53,14 @@
             <h2 class="blog-post-title">Programação</h2>
             <p>Quinta  - 19:30 - Ensaio para o culto mensal</p>
 			<p>Domingo - 10:30 – Escola Bíblica</p> 
-            <p>Cantata de Natal – Tema - Natal Brasileiro data 13 de Dezembro de 15 às 17h</p>
+            <p>Cantata de Natal – Tema - Natal Brasileiro data 13 de Dezembro de 2015 às 17h</p>
           </div><!-- /.blog-post -->
 
     	  <div class="blog-post" id="cursos">
             <h2 class="blog-post-title">Cursos</h2>
              <p>Curso de Decoração em bola - Inicio de Setembro</p>
              <p>Curso de biscuit</p>
-             <p>Discipulado Infantil – Com Pra.Aline, para criança de 07 a 12 ano – Inscreva seu filho</p>
+             <p>Discipulado Infantil – Com Pra.Aline, para crianças de 07 a 12 anos – Inscreva seu filho</p>
           </div><!-- /.blog-post -->
           
           
